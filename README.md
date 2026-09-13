@@ -3,3 +3,5 @@ tested on  bios f.46/board 890E
 Not tested on board 8905
 
 You need working fat32 usb flash
+
+tutorial video:https://photos.app.goo.gl/jJjkneb53E6fhagp7
